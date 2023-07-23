@@ -1,9 +1,5 @@
-import { DataTemp } from "./genie/DataTemp";
-import { HelperTemp } from "./genie/HelperTemp";
-import { initReactGenie } from "reactgenie-lib";
 
-console.log(DataTemp);
 
-export const reactGenieStore = initReactGenie();
+export const reactGenieStore = 'TODO'; // TODO: initialize React Genie store here
 
 //manul set up here

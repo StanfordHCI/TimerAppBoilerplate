@@ -1,5 +1,5 @@
 {
-    "name": "template",
+    "name": "timer",
     "version": "0.0.1",
     "main": "__generated__/AppEntry.js",
     "scripts": {
